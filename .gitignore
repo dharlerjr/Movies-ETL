@@ -24,6 +24,9 @@ pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
+# Ignored files
+.DS_Store
+*.csv
 *.egg
 MANIFEST
 
