@@ -4,7 +4,7 @@
 
 ### Background
 
-AmazingPrimeVideo is a fictional streaming service that allows customers to stream movies and tv shows. The AmazingPrimeVideo team wants to expand their movie catalog by developing an algorithm to predict which low-budget movies will become popular. To do so, the company has sponsored a Hackathon in which participants will build their own algorithm to try and predict the popular movies. However, the participants will need a sufficient dataset for to develop and test their algorithms.
+AmazingPrimeVideo is a fictional streaming service that allows customers to stream movies and TV shows. The AmazingPrimeVideo team wants to expand their movie catalog by developing an algorithm to predict which low-budget movies will become popular, so the company can purchase the movie rights for a low price. To accomplish their goal, the company has sponsored a Hackathon in which participants will build their own algorithm to try and predict the popular movies. However, the participants will need a sufficient dataset to develop and test their algorithms.
 
 ### Purpose
 
